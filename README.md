@@ -1,2 +1,2 @@
 # ai-fashion-stylist
-AI-powered outfit recommendation system based on style, season, occasion and color compatibility.
+An intelligent outfit recommendation platform that helps users discover personalized clothing combinations based on style, occasion, season, color harmony and wardrobe compatibility through data-driven recommendation techniques.
